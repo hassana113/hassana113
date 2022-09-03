@@ -1,10 +1,11 @@
-### Hi there 👋
+# ABOUT ME
+##  Hi there 👋, I'm Hassana Abdulkadir, a data analyst/scientist from Nigeria. 
 
-- 🔭 I’m currently working on building my technical skills in Data Analysis 
-- 🌱 I’m currently learning Data Analysis in the NG30 Days of learning
+- 🔭 I’m currently working on a project using sql 
+- 🌱 I’m currently learning Excel for Data Science and Machine Learning
 - 👯 I’m looking to collaborate on everything data analysis and project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about my learning journey
-- 📫 How to reach me: ...
+
+- 💬 Ask me about data analysis and data science 
+- 📫 How to reach me: abdulkadirhassana97@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
