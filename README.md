@@ -1,6 +1,6 @@
 # ABOUT ME
 ##  Hi there 👋, I'm Hassana Abdulkadir, a Pharmacy Undergraduate and a Data scientist from Nigeria. 
-I am an enthusiastic Data Scientist with interests spanning from Health, Bioinformatics, Drug Discovery, Research and Machine Learning Research.
+I am a Data Scientist with interests spanning from Health, Bioinformatics, Drug Discovery, Research and Machine Learning Research.
 
 - 🔭 I’m currently working on a project using Postgresql 
 - 🌱 I’m currently learning Excel for Data Science and Machine Learning
